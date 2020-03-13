@@ -1,6 +1,6 @@
- ### @activities true
+### @activities true
 
-### Part One Test  @unplugged
+## Part One Test  @unplugged
 
 We now code what happens when our player overlaps with the enemy ``||variables:snake||``. 
 Drag in an on player overlap with block from Sprites. Set the second value to be Enemy. 
