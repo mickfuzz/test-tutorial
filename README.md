@@ -5,7 +5,7 @@
 ## Adding an Enemy 
 ### Getting Started @unplugged
 
-This is tutorial one in a group that add game mechanics to our starter template, for more see. 
+This is tutorial one in a group that add game mechanics to our starter template, for more see!
 
 * [Part One](partOne.md)
 * [Part Two](partTwo.md)
