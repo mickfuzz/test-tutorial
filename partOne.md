@@ -1,3 +1,4 @@
+
 ### @activities true
 
 ```blocks
@@ -19,7 +20,7 @@ For example: you may want to learn how to do the following
 * Add moving enemies. 
 
 This tutorial is one of many allowing you add different Game Element on the home page of this Platformer Making Course.
-
+# Test your game and Next Steps 
 ## Part One Test  
 ### A part one test step two
 
