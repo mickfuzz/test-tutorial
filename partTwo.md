@@ -1,5 +1,6 @@
- ### @activities true
-
+### @activities true
+ 
+## Test your game and Next Steps 
 ### Part One Test  @unplugged
 
 We now code what happens when our player overlaps with the enemy ``||variables:snake||``. 
